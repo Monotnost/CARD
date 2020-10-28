@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<ArrayOfSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Setting>
+    <name>American Express</name>
+    <minLen>15</minLen>
+    <maxLen>15</maxLen>
+    <firstNumbers>
+      <string>34</string>
+      <string>37</string>
+    </firstNumbers>
+  </Setting>
+  <Setting>
+    <name>MasterCard</name>
+    <minLen>16</minLen>
+    <maxLen>16</maxLen>
+    <firstNumbers>
+      <string>51</string>
+      <string>52</string>
+      <string>53</string>
+      <string>54</string>
+      <string>55</string>
+    </firstNumbers>
+  </Setting>
+  <Setting>
+    <name>Visa</name>
+    <minLen>13</minLen>
+    <maxLen>16</maxLen>
+    <firstNumbers>
+      <string>4</string>
+    </firstNumbers>
+  </Setting>
+</ArrayOfSetting>

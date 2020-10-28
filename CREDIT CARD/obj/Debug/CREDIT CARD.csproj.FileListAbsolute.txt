@@ -1,0 +1,7 @@
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\bin\Debug\CREDIT CARD.exe.config
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\bin\Debug\CREDIT CARD.exe
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\bin\Debug\CREDIT CARD.pdb
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\obj\Debug\CREDIT CARD.csprojAssemblyReference.cache
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\obj\Debug\CREDIT CARD.csproj.CoreCompileInputs.cache
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\obj\Debug\CREDIT CARD.exe
+C:\Users\кирилл\source\repos\CREDIT CARD\CREDIT CARD\obj\Debug\CREDIT CARD.pdb
